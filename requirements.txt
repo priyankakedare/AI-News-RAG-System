@@ -1,0 +1,8 @@
+streamlit
+feedparser
+beautifulsoup4
+requests
+python-dotenv
+openai
+chromadb
+sentence-transformers

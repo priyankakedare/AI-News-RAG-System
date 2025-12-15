@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Cache & vector database
+summary_cache.json
+rag_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
